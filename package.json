@@ -1,0 +1,7 @@
+{
+  "name": "pythonProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
